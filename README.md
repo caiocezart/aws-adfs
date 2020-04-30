@@ -2,7 +2,7 @@
 
 Minimal image possible for running [aws-adfs](https://pypi.org/project/aws-adfs/), a python script to ease authentication against ADFS with multi-factor capability.
 
-Leveraging multi-stage builds and virtualenv to isolate app dependencies, final image ranges around 260MB.
+Leveraging multi-stage builds and virtualenv to isolate app dependencies, final image ranges around 244MB.
 
 Image published to Dockerhub [here]().
 
